@@ -1,0 +1,31 @@
+@import url("base.css");
+
+#aboutUsW
+{
+	margin: 100px 120px 100px 120px;
+}
+
+#aboutUs-posAbs
+{
+	position: relative;
+	text-align: center;
+	color: #ededed;
+}
+
+#aboutUs-posAbs img
+{
+	max-width: 100%;
+}
+
+#aboutUsW h4
+{
+	font-size: 20px;
+}
+
+#aboutUs-textBack
+{
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	background-color: rgba(10, 0, 0, 0.55);
+}
